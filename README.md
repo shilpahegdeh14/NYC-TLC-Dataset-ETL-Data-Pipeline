@@ -1,6 +1,6 @@
-# NYC Yellow Taxi Trip Data Cleaning with Apache Spark
+# NYC Yellow Taxi Trip Data: ETL with Apache Spark
 
-This repository demonstrates how to process the NYC TLC Yellow Taxi Trip Records dataset using Apache Spark within Azure Databricks. The project focuses on leveraging Spark's capabilities to efficiently handle and clean large-scale datasets. The cleaned data is then stored back into Azure Blob Storage.
+This repository demonstrates how to process the NYC TLC Yellow Taxi Trip Records dataset using cloud-based services (Apache Spark within Azure Databricks). The project focuses on leveraging Spark's capabilities to efficiently handle and clean large-scale datasets. The cleaned data is then stored back into Azure Blob Storage.
 
 ## Overview
 
